@@ -41,12 +41,9 @@ ai_stock_chatbot/
 
 ## 🛠️ Setup
 
-1. **Clone the repo**
+1. **Fork the repository on GitHub**
 
-```bash
-git clone https://github.com/jasonssdev/ai-stock-chatbot.git
-cd ai-stock-chatbot
-```
+Go to [https://github.com/jasonssdev/ai-stock-chatbot](https://github.com/jasonssdev/ai-stock-chatbot) and click the **Fork** button in the upper right corner to create your own copy.
 
 2. **Create `.env` file**
 
